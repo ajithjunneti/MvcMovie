@@ -1,11 +1,11 @@
 ﻿{
   "iisSettings": {
-    "windowsAuthentication": false,
-    "anonymousAuthentication": true,
+    "anonymousAuthentication": false,
     "iisExpress": {
       "applicationUrl": "http://localhost:38904",
       "sslPort": 44358
-    }
+    },
+    "windowsAuthentication": false
   },
   "profiles": {
     "IIS Express": {
