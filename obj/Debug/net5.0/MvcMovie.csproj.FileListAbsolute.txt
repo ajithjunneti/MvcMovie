@@ -38,3 +38,4 @@ C:\Users\Ajith\source\repos\MvcMovie\MvcMovie\obj\Debug\net5.0\ref\MvcMovie.dll
 C:\Users\Ajith\source\repos\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.pdb
 C:\Users\Ajith\source\repos\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.genruntimeconfig.cache
 C:\Users\Ajith\source\repos\MvcMovie\MvcMovie\obj\Debug\net5.0\MvcMovie.csproj.CopyComplete
+C:\Users\Ajith\source\repos\MvcMovie\MvcMovie\obj\Debug\net5.0\Razor\Pages\Contact.cshtml.g.cs
