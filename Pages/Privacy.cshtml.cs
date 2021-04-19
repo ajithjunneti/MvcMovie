@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
 using System;
+using System.IO;
 
 namespace MvcMovie.Pages
 {
@@ -20,4 +21,5 @@ namespace MvcMovie.Pages
             ViewData["TimeStamp"] = dateTime;
         }
     }
+   
 }
