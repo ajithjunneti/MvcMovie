@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "BA2rbAQx9ARkwUqUMZmT3koYxh7b/bYFiV8XY8E9V+JLczq/nUSNoJT9zXGQgSJ5q35Of1kbgdMR6hXSjt9O2A==",
+  "dgSpecHash": "p6HKQiVQIMVQ7qxp6+UXsCM7PrnslZyAd9nmrJvXL/c4sPfQiBN5dzLaK/JiLP+tkP+EfqhmcxiyyoNhXDPG3w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ajith\\source\\repos\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ajith\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\Ajith\\.nuget\\packages\\jquery\\3.6.0\\jquery.3.6.0.nupkg.sha512",
     "C:\\Users\\Ajith\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Ajith\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
     "C:\\Users\\Ajith\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
